@@ -1,0 +1,34 @@
+.wrap {
+ background-color: grey;
+ /* background-color: #282c34; */
+ min-height: 35vh;
+ min-width: 70%;
+ margin-top: 70px;
+ margin-left: auto;
+ margin-right: auto;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ align-content: stretch;
+ justify-content: space-evenly;
+ align-items: center;
+ color: white;
+ border-radius: 50px;
+}
+.wrapAbout {
+ background-color: rgb(7, 90, 134);
+ padding: 50px;
+ margin: 50px;
+ border: 50px;
+ border-radius: 50px;
+}
+.foto {
+ height: 480px;
+}
+.textarea {
+ font-size: xx-large;
+ box-sizing: border-box;
+ background-color: aqua;
+ max-width: 70%;
+ height: 480px;
+}
