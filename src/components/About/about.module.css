@@ -1,6 +1,5 @@
 .wrap {
  background-color: grey;
- /* background-color: #282c34; */
  min-height: 35vh;
  min-width: 70%;
  margin-top: 70px;
@@ -26,9 +25,37 @@
  height: 480px;
 }
 .textarea {
+ font-size: x-large;
+ box-sizing: border-box;
+ max-width: 100%;
+ height: 70px;
+ margin-top: 70px;
+}
+.title {
+ margin-top: 70px;
+ font-size: x-large;
+ box-sizing: border-box;
+ height: 50px;
+}
+.blok {
+ margin-top: 70px;
  font-size: xx-large;
  box-sizing: border-box;
- background-color: aqua;
- max-width: 70%;
- height: 480px;
+ height: 50px;
+}
+.btn {
+ background-color: black;
+ border-radius: 30px;
+ height: 100px;
+ width: 400px;
+ color: white;
+ font-size: xx-large;
+}
+.btn:hover {
+ background-color: rgb(164, 103, 103);
+ border-radius: 30px;
+height: 100px;
+ width: 400px;
+ color: white;
+ font-size: xx-large;
 }

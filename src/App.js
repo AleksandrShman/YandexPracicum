@@ -1,14 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 import About from './components/About/About';
-import Neabout from './components/Neabout/Neabout';
+import Card from './components/Card/Card';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <Card/>
         <About />
-        {/* <Neabout /> */}
       </header>
     </div>
   );
