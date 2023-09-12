@@ -1,7 +1,7 @@
 .wrap {
  background-color: grey;
  min-height: 35vh;
- min-width: 70%;
+ min-width: 50%;
  margin-top: 100px;
  margin-bottom: 100px;
  margin-left: auto;
@@ -17,24 +17,34 @@
 }
 .wrapAbout {
  background-color: rgb(7, 90, 134);
- padding: 50px;
- margin: 50px;
- border: 50px;
+ padding: 30px;
+ margin: 30px;
+ border: 30px;
  border-radius: 50px;
 }
+.btnWrap {
+ display: flex;
+ justify-content: space-around;
+ flex-wrap: nowrap;
+ flex-direction: row;
+ align-items: center;
+ margin: 100px;
+ border: 30px;
+ padding: 30px;
+}
 .btn {
- background-color: black;
+background-color: black;
  border-radius: 30px;
  height: 100px;
- width: 400px;
+ width: 300px;
  color: white;
  font-size: xx-large;
 }
 .btn:hover {
  background-color: rgb(7, 90, 134);
  border-radius: 30px;
-height: 100px;
- width: 400px;
+ height: 100px;
+ width: 300px;
  color: white;
  font-size: xx-large;
 }
