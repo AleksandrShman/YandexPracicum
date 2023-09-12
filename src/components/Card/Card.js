@@ -15,6 +15,14 @@ function Card() {
      <div className={styles.wrapAbout}>
       <img alt="моё фото когда-то" className={styles.foto} src={fotoYong} />
      </div>
+     <div>
+
+     </div>
+    </div>
+      <div>
+        <a href="https://github.com/AleksandrShman/YandexPracicum" target="_blank" rel="noopener noreferrer">
+          <button className={styles.btn}>Github</button>
+        </a>
     </div>
     </>
   )
