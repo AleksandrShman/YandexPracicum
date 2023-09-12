@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/YandexPraktikum/static/css/main.2e155f44.css",
-    "main.js": "/YandexPraktikum/static/js/main.98568d44.js",
+    "main.css": "/YandexPraktikum/static/css/main.c5840d80.css",
+    "main.js": "/YandexPraktikum/static/js/main.6fe41153.js",
     "static/js/787.f2cbfeac.chunk.js": "/YandexPraktikum/static/js/787.f2cbfeac.chunk.js",
     "static/media/video.mp4": "/YandexPraktikum/static/media/video.090dac70d2150d276ea9.mp4",
+    "static/media/ShmanAleksandr.jpg": "/YandexPraktikum/static/media/ShmanAleksandr.82686f2a91f42ac83d28.jpg",
     "index.html": "/YandexPraktikum/index.html",
-    "main.2e155f44.css.map": "/YandexPraktikum/static/css/main.2e155f44.css.map",
-    "main.98568d44.js.map": "/YandexPraktikum/static/js/main.98568d44.js.map",
+    "main.c5840d80.css.map": "/YandexPraktikum/static/css/main.c5840d80.css.map",
+    "main.6fe41153.js.map": "/YandexPraktikum/static/js/main.6fe41153.js.map",
     "787.f2cbfeac.chunk.js.map": "/YandexPraktikum/static/js/787.f2cbfeac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e155f44.css",
-    "static/js/main.98568d44.js"
+    "static/css/main.c5840d80.css",
+    "static/js/main.6fe41153.js"
   ]
 }
