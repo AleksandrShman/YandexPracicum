@@ -13,3 +13,7 @@
  color: white;
  border-radius: 50px;
 }
+#fotoNow{
+  max-height: 359px;
+ max-width: 480px;
+}
