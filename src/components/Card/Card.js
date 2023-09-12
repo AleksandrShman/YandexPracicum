@@ -5,7 +5,7 @@ import About from '../About/About';
 
 function Card() {
 
-  let fotoNow = 'https://img.hhcdn.ru/photo/639413678.jpeg?t=1694467671&h=oKMRUoJpNZzSZKFm6deXrA'
+  let fotoNow = 'https://downloader.disk.yandex.ru/preview/a0cd2ba25ae5f21f4427f9b6b76050246f68ebc07651530bab51d855bbe58dc0/6500a6bc/zLmISv9jNFlE3Dg3THNOEpSxFnBI7yTz3VJIH2nZqNtvE4-En-k_PVvpqPClBb_kUzL6BorgwHlLhazeCC8Pcw%3D%3D?uid=0&filename=git817.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=359x480'
   const fotoYong = 'https://sun9-53.userapi.com/impf/c21/v21341/8de/j7rNhtCK570.jpg?size=359x480&quality=96&sign=91b0672f454f12a7ac245c1aad862b18&type=album'
   const navigate = useNavigate();
 
