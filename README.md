@@ -1,5 +1,5 @@
 # Начало работы с приложением Create React
-Просмотреть данное приложение можно по ссылке [Create React App](https://github.com/facebook/create-react-app).
+Просмотреть данное приложение можно по ссылке [YandexPraktikum](https://aleksandrshman.github.io/YandexPraktikum/)
 
 ## Доступные сценарии
 
