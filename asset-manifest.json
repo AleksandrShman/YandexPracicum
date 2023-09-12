@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/YandexPraktikum/static/css/main.99be1f69.css",
+    "main.css": "/YandexPraktikum/static/css/main.2e155f44.css",
     "main.js": "/YandexPraktikum/static/js/main.426b41f6.js",
     "static/js/787.f2cbfeac.chunk.js": "/YandexPraktikum/static/js/787.f2cbfeac.chunk.js",
     "static/media/video.mp4": "/YandexPraktikum/static/media/video.090dac70d2150d276ea9.mp4",
     "index.html": "/YandexPraktikum/index.html",
-    "main.99be1f69.css.map": "/YandexPraktikum/static/css/main.99be1f69.css.map",
+    "main.2e155f44.css.map": "/YandexPraktikum/static/css/main.2e155f44.css.map",
     "main.426b41f6.js.map": "/YandexPraktikum/static/js/main.426b41f6.js.map",
     "787.f2cbfeac.chunk.js.map": "/YandexPraktikum/static/js/787.f2cbfeac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99be1f69.css",
+    "static/css/main.2e155f44.css",
     "static/js/main.426b41f6.js"
   ]
 }
